@@ -1,0 +1,2 @@
+# Class
+training repository
